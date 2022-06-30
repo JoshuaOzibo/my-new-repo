@@ -1,1 +1,5 @@
 log.txt
+/del1
+*.js
+*del1
+ /del1/app1.js
